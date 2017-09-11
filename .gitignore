@@ -1,0 +1,6 @@
+dist
+node_modules
+test/coverage
+.idea/
+config/.typescript
+test/screenshots
